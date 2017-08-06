@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message">
+        An error has occurred. Please try again by clicking refresh icon
+    </string>
+
+    <string name="more">More</string>
+    <string name="sort">Sort by...</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="popular_movie">Popular</string>
+    <string name="now_playing_movie">Now Playing</string>
+    <string name="top_rated_movie">Top Rated</string>
+
+    <string name="popular">popular</string>
+    <string name="now_playing">now_playing</string>
+    <string name="top_rated">top_rated</string>
+
+
+</resources>
